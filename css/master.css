@@ -150,12 +150,12 @@ main img {
   background-color: #597da3;
   box-shadow: 0 0 30px rgba(0,0,0,0.5);
 }
-.ds:hover {
-  background-color: #7289DA;
+.st:hover {
+  background-color: #1b2838;
   box-shadow: 0 0 30px rgba(0,0,0,0.5);
 }
-.steam:hover {
-  background-color: #171a21;
+.ds:hover {
+  background-color: #7289DA;
   box-shadow: 0 0 30px rgba(0,0,0,0.5);
 }
 
