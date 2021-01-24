@@ -28,6 +28,10 @@ img {
   margin: 0;
 }
 
+.myimg {
+	border-radius: 10%;
+}
+
 .name_wrapper p {
   color: #FFF;
   margin: 20px;
@@ -156,6 +160,10 @@ main img {
 }
 .ds:hover {
   background-color: #7289DA;
+  box-shadow: 0 0 30px rgba(0,0,0,0.5);
+}
+.sp:hover {
+  background-color: #1ED760;
   box-shadow: 0 0 30px rgba(0,0,0,0.5);
 }
 
